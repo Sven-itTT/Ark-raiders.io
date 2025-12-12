@@ -198,7 +198,7 @@ class CustomNavbar extends HTMLElement {
                         <div class="notification-badge">
                             <i data-feather="bell" style="width: 24px; height: 24px;"></i>
                         </div>
-                        <img src="https://www.lifewire.com/thmb/8oOi4pyVCf0XtExkMkHs8N0LCJw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-watch-john-wick-movies-0ef4df9c01d14bb68ff7653875b78155.jpeg" alt="User" class="user-avatar">
+                        <img src="https://i.ytimg.com/vi/qDatKUsXR9E/maxresdefault.jpg" alt="User" class="user-avatar">
                     </div>
 </ul>
                 </div>
@@ -236,3 +236,4 @@ class CustomNavbar extends HTMLElement {
 
 
 customElements.define('custom-navbar', CustomNavbar);
+
